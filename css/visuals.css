@@ -7,12 +7,12 @@ background-image: url("../images/head/city.jpeg");
 }
 
 #wallpaper {
- background-image: url("../images/head/shoe.jpeg");
- padding: 15em;
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;
- background-repeat:
+  background-image: url("../images/head/shoe.jpeg");
+  padding: 15em;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat:
 }
 p {
   font-family: 'Courier New';
