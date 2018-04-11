@@ -7,7 +7,16 @@ background-image: url("../images/head/city.jpeg");
 }
 
 #wallpaper {
-  background-image: url("../images/head/shoe.jpeg");
+  background-image: url("../images/background/night.jpg");
+  padding: 15em;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat:
+}
+
+#background{
+  background-color: black;
   padding: 15em;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,27 +24,27 @@ background-image: url("../images/head/city.jpeg");
   background-repeat:
 }
 p {
-  font-family: 'Courier New';
+  font-family: 'joti One';
   font-size: 2em;
   color: antiquewhite;
 }
 p1 {
-  font-family: sans-serif;
+  font-family: 'joti One';
   font-size: 2em;
   color: antiquewhite; 
 } 
 h1 {
-  font-family: 'Gill Sans MT';
+  font-family: 'joti One';
   font-size: 3em;
   color: rgb(255, 255, 255);
 }
 h2 {
-  font-family: 'fantasy';
+  font-family: 'joti One';
   font-size: 1.8em;
   color: antiquewhite; 
 }
 ul {
-  font-family: Lucida Sans;
+  font-family: 'joti One';
   font-size: 1.7em;
-  color: cyan;
+  color:cyan;
 }
